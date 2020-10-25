@@ -21,5 +21,4 @@ average execute time is around 300ms
  
 
 # references:  
-[base.bit and base.hwh](https://github.com/kangyuzhe666/zynq7010-pynq-2.5)
 [IPcore, resizer_ps.ipynb, resizer_pl.ipynb ](https://github.com/Xilinx/PYNQ-HelloWorld)
