@@ -4,7 +4,9 @@ transplant several overlays to s9_pynq board
 reference:  
 [kangyuzhe666/zynq7010-pynq-2.5](https://github.com/kangyuzhe666/zynq7010-pynq-2.5)  
 # How to build your overlays:
-
+references:  
+[overlay "adder" on xilinx forum](http://xilinx.eetrend.com/blog/2019/100016903.html)  
+[overlay "adder" transplant to PYNQ-Z2](https://blog.csdn.net/qq_41467882/article/details/102007786)
 # change log
 * add overlay "base" 20201025  
 User Manual:  
