@@ -15,7 +15,7 @@ average execute time is around 300ms
 ./s9_pynq_resizer.7z is this project folder  
 ./ip is the official IPcore  
 <div  align="center">    
-	<img src=".block_design_resizer.png"  alt="Block design" align=center />  
+	<img src="./block_design_resizer.png"  alt="Block design" align=center />  
  </div>
    
  
