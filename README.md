@@ -9,9 +9,9 @@ references:
 [overlay "adder" transplant to PYNQ-Z2](https://blog.csdn.net/qq_41467882/article/details/102007786)
 # change log
 * add overlay "base" 20201025  
-[User Manual](./base/READ.me)  
+[User Manual](https://github.com/guannan-he/Antminer_s9_pynq/blob/main/base/README.md)  
 * add overlay "resizer" 20201025  
-[User Manual](./resizer/README.md)  
+[User Manual](https://github.com/guannan-he/Antminer_s9_pynq/blob/main/resizer/README.md)  
 references:  
 [IP core](https://github.com/Xilinx/PYNQ-HelloWorld)  
 [DMA](https://blog.csdn.net/alangaixiaoxiao/article/details/103958007)  
