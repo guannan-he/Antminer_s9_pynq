@@ -14,6 +14,12 @@ average execute time is around 300ms
 # project detail:  
 ./s9_pynq_resizer.7z is this project folder  
 ./ip is the official IPcore  
-#references:  
+<div  align="center">    
+	<img src=".block_design_resizer.png"  alt="Block design" align=center />  
+ </div>
+   
+ 
+
+# references:  
 [base.bit and base.hwh](https://github.com/kangyuzhe666/zynq7010-pynq-2.5)
 [IPcore, resizer_ps.ipynb, resizer_pl.ipynb ](https://github.com/Xilinx/PYNQ-HelloWorld)
