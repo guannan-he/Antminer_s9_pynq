@@ -12,7 +12,7 @@ average execute time is around 1000ms
 open your jupyter web console and run /demo_base/resizer_pl.ipynb  
 average execute time is around 300ms  
 # project detail:  
-./s9_pynq_resizer.7z is this project folder  
+./s9_pynq_resizer.7z is the project folder  
 ./ip is the official IPcore  
 <div  align="center">    
 	<img src="./block_design_resizer.png"  alt="Block design" align=center />  
