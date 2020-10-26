@@ -15,4 +15,10 @@ references:
 references:  
 [IP core](https://github.com/Xilinx/PYNQ-HelloWorld)  
 [DMA](https://blog.csdn.net/alangaixiaoxiao/article/details/103958007)  
-[Block design](https://www.element14.com/community/groups/fpga-group/blog/2020/03/24/image-processing-on-zc702-using-pynq)
+[Block design](https://www.element14.com/community/groups/fpga-group/blog/2020/03/24/image-processing-on-zc702-using-pynq)  
+* add overlay "antminerGPIO"  20201026
+[User Manual](https://github.com/guannan-he/Antminer_s9_pynq/blob/main/antminerGPIO/README.md)  
+references:  
+[use gpio](https://github.com/Xilinx/PYNQ_Workshop/blob/master/Session_4/2_axi_gpio.ipynb)  
+[add gpio](https://zhuanlan.zhihu.com/p/52469205)  
+[axi gpio](https://medium.com/%E9%AB%94%E9%A9%97%E4%BA%BA%E7%94%9F-touch-life/pynq-z2-led-button-switch-gpio-test-45c2c270fd2f)
