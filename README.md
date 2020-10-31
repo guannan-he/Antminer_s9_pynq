@@ -22,4 +22,9 @@ references:
 [use gpio](https://github.com/Xilinx/PYNQ_Workshop/blob/master/Session_4/2_axi_gpio.ipynb)  
 [add gpio](https://zhuanlan.zhihu.com/p/52469205)  
 [axi gpio](https://medium.com/%E9%AB%94%E9%A9%97%E4%BA%BA%E7%94%9F-touch-life/pynq-z2-led-button-switch-gpio-test-45c2c270fd2f)  
-* add AD7606 demo 20201027 merged to antminerGPIO  
+* add AD7606 demo 20201027  
+merged to antminerGPIO  
+* add overlay "AD7606PLSPI" 20201031  
+[User Manual](https://github.com/guannan-he/Antminer_s9_pynq/blob/main/AD7606PLSPI/README.md)  
+references:  
+[axi quad spi drivers for pynq](https://discuss.pynq.io/t/axi-spi-python-code/250/8)  
